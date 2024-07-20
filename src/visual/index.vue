@@ -542,7 +542,7 @@ const removebg = () => {
     //viewer.scene.backgroundColor = new Cesium.Color(0.0, 0.0, 0.0, 0.0);
     viewer.scene.backgroundColor = Cesium.Color.TRANSPARENT;
     let bg = document.getElementById("cesiumContainer");
-    console.log(bg);
+    // console.log(bg);
     bg.style.background = "url(" + pic + ")";
 }
 
