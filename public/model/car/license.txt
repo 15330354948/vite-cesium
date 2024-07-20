@@ -1,0 +1,11 @@
+Model Information:
+* title:	Porsche 918
+* source:	https://sketchfab.com/3d-models/porsche-918-d4e61ab15a3748f28a9adfe2f6b89b4d
+* author:	aaflak6443 (https://sketchfab.com/aaflak6443)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Porsche 918" (https://sketchfab.com/3d-models/porsche-918-d4e61ab15a3748f28a9adfe2f6b89b4d) by aaflak6443 (https://sketchfab.com/aaflak6443) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
